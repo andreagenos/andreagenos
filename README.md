@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Andrea Genovese from Italy, an aspiring Full Stack and Blockchain Developer currently enrolled in the Blockchain Development Master of Start2Impact University.
+I'm Andrea Genovese from Italy, Junior Full Stack and Blockchain Developer and recently I completed the Blockchain Development Master’s degree of Start2Impact University.
 
 
 # 💻 Tech Stack:
