@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Andrea Genovese from Italy, Junior Full Stack and Blockchain Developer and recently I completed the Blockchain Development Master’s degree of Start2Impact University.
+I'm Andrea Genovese from Italy, Junior Full Stack and Blockchain Developer currently Junior Developer at Voltar srl.
 
 
 # 💻 Tech Stack:
