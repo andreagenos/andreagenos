@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Andrea Genovese from Italy, Junior Full Stack and Blockchain Developer currently working as Junior Developer at Voltar srl.
+I'm Andrea Genovese from Italy, Junior Full Stack and Blockchain Developer passionate about analytics and innovation.
 
 
 # 💻 Tech Stack:
